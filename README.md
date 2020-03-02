@@ -1,0 +1,2 @@
+# Hangman-Project
+This project is a Hangman game that uses the Spotify Web API to come up with lyrics for a song. The game requires the player to fill in the blanks with their best guess of the song title given the artist name. They have limited tries, and if they exceed the tries then the correct song title is displayed giving them a "You Lose" statement. Then, the game continues with another hidden song title until the exit option is picked. 
